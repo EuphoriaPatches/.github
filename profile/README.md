@@ -7,3 +7,5 @@ You can download Euphoria Patches from the official website: https://euphoriapat
 Don't know how to install? Read the official tutorial: https://www.euphoriapatches.com/how-to-install/
 # Contact
 https://www.euphoriapatches.com/contact/
+# Support Development
+https://www.euphoriapatches.com/support/
