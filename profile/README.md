@@ -9,3 +9,5 @@ Don't know how to install? Read the official tutorial: https://www.euphoriapatch
 https://www.euphoriapatches.com/contact/
 # Support Development
 https://www.euphoriapatches.com/support/
+# Translations
+https://www.euphoriapatches.com/lang/
